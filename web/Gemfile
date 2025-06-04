@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+# Optional server: thin or puma can be used
+# gem 'thin'
+# gem 'puma'
